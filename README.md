@@ -16,14 +16,13 @@
 | Project | Description |
 |--------|-------------|
 | 🌙 [Lunar AI](https://github.com/mrwhocancode/lunar-ai) | AI-powered tool built to solve real problems, faster |
-| 🧭 [Career Path AI](https://github.com/mrwhocancode/career-path-ai) | Helping people navigate career decisions with AI guidance |
+| 🧭 [Career Path AI](https://github.com/mrwhocancode/career-ai-repo) | Helping people navigate career decisions with AI guidance |
 
 ---
 
 ## 📊 GitHub Stats
 
-![Alex's GitHub stats](https://github-readme-stats.vercel.app/api?username=mrwhocancode&show_icons=true&hide_border=true&count_private=true&theme=default)
----
+![Contribution Graph](https://github.com/mrwhocancode/mrwhocancode/blob/main/github-snake.svg)---
 
 ## 🤝 Connect
 
