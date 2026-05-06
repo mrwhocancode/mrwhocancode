@@ -20,10 +20,10 @@
 
 ---
 ## 📊 GitHub Stats
+![Alex's GitHub Contribution Graph](https://ghchart.rshah.org/mrwhocancode)
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=mrwhocancode&hide_border=true)](https://github.com/mrwhocancode)
-
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mrwhocancode&layout=compact&hide_border=true&langs_count=6)](https://github.com/mrwhocancode)
+## Fun Fact
+👩‍💻i like girls in tech
 
 ## 🤝 Connect
 
@@ -33,4 +33,3 @@
 
 ---
 
-*"Ship it. Learn. Repeat." — from Kumasi 🇬🇭 with code*
