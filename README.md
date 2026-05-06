@@ -19,10 +19,11 @@
 | 🧭 [Career Path AI](https://github.com/mrwhocancode/career-ai-repo) | Helping people navigate career decisions with AI guidance |
 
 ---
-
 ## 📊 GitHub Stats
 
-![Contribution Graph](https://github.com/mrwhocancode/mrwhocancode/blob/main/github-snake.svg)---
+[![GitHub Streak](https://streak-stats.demolab.com?user=mrwhocancode&hide_border=true)](https://github.com/mrwhocancode)
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mrwhocancode&layout=compact&hide_border=true&langs_count=6)](https://github.com/mrwhocancode)
 
 ## 🤝 Connect
 
