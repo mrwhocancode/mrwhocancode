@@ -22,10 +22,7 @@
 
 ## 📊 GitHub Stats
 
-![Alex's GitHub stats](https://github-readme-stats.vercel.app/api?username=mrwhocancode&show_icons=true&hide_border=true&theme=default)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mrwhocancode&layout=compact&hide_border=true&theme=default)
-
+![Alex's GitHub stats](https://github-readme-stats.vercel.app/api?username=mrwhocancode&show_icons=true&hide_border=true&count_private=true&theme=default)
 ---
 
 ## 🤝 Connect
