@@ -20,8 +20,7 @@
 
 ---
 ## 📊 GitHub Stats
-![Alex's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mrwhocancode&show_icons=true&theme=tokyonight&hide_border=true)
-
+[![GitHub Streak](https://streak-stats.demolab.com?user=mrwhocancode&theme=dark&hide_border=true)](https://git.io/streak-stats)
 
 ## Fun Fact
 👩‍💻i like girls in tech
