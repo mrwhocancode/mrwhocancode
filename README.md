@@ -20,7 +20,8 @@
 
 ---
 ## 📊 GitHub Stats
-![Alex's GitHub Contribution Graph](https://ghchart.rshah.org/mrwhocancode)
+![Alex's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mrwhocancode&show_icons=true&theme=dark&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mrwhocancode&layout=compact&theme=dark&hide_border=true)
 
 ## Fun Fact
 👩‍💻i like girls in tech
