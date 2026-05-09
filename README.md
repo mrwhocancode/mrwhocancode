@@ -1,13 +1,13 @@
-# Hey, I'm Alex Nyanteng 👋
+# Hey, I'm Alex.. 👋
 
-📍 Kumasi, Ghana · 🤖 AI Engineer & Web Developer · 🚀 Building tools that actually solve problems
+📍 Kumasi, Ghana · 🤖 AI Engineer & Web Developer ·  Building tools that actually solve problems
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-FF6F00?style=flat&logo=tensorflow&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
 ![LLMs](https://img.shields.io/badge/LLMs-7C3AED?style=flat&logo=openai&logoColor=white)
 
-> 🔭 Currently building **Lunar AI** & **Career Path AI**
+> 🔭 Currently learning AI engineering
 
 ---
 
