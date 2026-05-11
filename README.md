@@ -1,4 +1,4 @@
-# Hey, I'm Alex.. 👋
+# Hello, I'm Alex.. 👋 Welcome to my github 
 
 📍 Kumasi, Ghana · 🤖 AI Engineer & Web Developer ·  Building tools that actually solve problems
 
