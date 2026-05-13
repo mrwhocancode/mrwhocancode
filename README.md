@@ -23,7 +23,7 @@
 [![GitHub Streak](https://streak-stats.demolab.com?user=mrwhocancode&theme=dark&hide_border=true)](https://git.io/streak-stats)
 
 ## Fun Fact
-👩‍💻i like girls in tech
+👩‍💻i like girls in tech :)
 
 ## 🤝 Connect
 
