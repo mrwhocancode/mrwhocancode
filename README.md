@@ -20,7 +20,7 @@
 
 ---
 ## 📊 GitHub Stats
-[![GitHub Streak](https://streak-stats.demolab.com?user=mrwhocancode&theme=dark&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=mrwhocancode&theme=dark&hide_border=true&cache_seconds=86400)](https://github.com/mrwhocancode)
 
 ## Fun Fact
 👩‍💻i like girls in tech :)
