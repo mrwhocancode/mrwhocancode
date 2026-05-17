@@ -20,8 +20,7 @@
 
 ---
 ## 📊 GitHub Stats
-![GitHub Streak](https://streak-stats.demolab.com?user=mrwhocancode&theme=dark&hide_border=true&v=20260517)
-
+[![GitHub Streak](https://streak-stats.demolab.com?user=mrwhocancode&theme=dark&hide_border=true&cache_seconds=3600)](https://github.com/mrwhocancode)
 <p align="left">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=mrwhocancode&theme=react-dark&hide_border=true" alt="Activity Graph" />
 </p>
