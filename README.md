@@ -23,10 +23,13 @@
 [![GitHub Streak](https://streak-stats.demolab.com?user=mrwhocancode&theme=dark&hide_border=true&v=20260517)
 
 <p align="center">
-  <a href="https://github.com/mrwhocancode">
-    <img src="https://streak-stats.demolab.com?user=mrwhocancode&theme=dark&hide_border=true&cache_seconds=3600" alt="GitHub Streak" />
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrwhocancode&theme=dark&hide_border=true&layout=compact" alt="Top Languages" />
 </p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mrwhocancode&theme=react-dark&hide_border=true" alt="Activity Graph" />
+</p>
+
 
 ## Fun Fact
 👩‍💻i like girls in tech :)
