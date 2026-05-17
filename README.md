@@ -22,6 +22,12 @@
 ## 📊 GitHub Stats
 [![GitHub Streak](https://streak-stats.demolab.com?user=mrwhocancode&theme=dark&hide_border=true&v=20260517)
 
+<p align="center">
+  <a href="https://github.com/mrwhocancode">
+    <img src="https://streak-stats.demolab.com?user=mrwhocancode&theme=dark&hide_border=true&cache_seconds=3600" alt="GitHub Streak" />
+  </a>
+</p>
+
 ## Fun Fact
 👩‍💻i like girls in tech :)
 
