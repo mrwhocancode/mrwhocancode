@@ -15,7 +15,7 @@
 
 | Project | Description |
 |--------|-------------|
-| 🌙 [Lunar AI](https://github.com/mrwhocancode/lunar-study-ai) | AI-powered tool built to solve real problems, faster |
+| 🌙 [Lunar AI](https://github.com/mrwhocancode/lunar-study-ai) | AI-powered tool built to help students practice questions based on slides/notes |
 | 🧭 [Career Path AI](https://github.com/mrwhocancode/career-path-ai) | Helping people navigate career decisions with AI guidance |
 
 ---
