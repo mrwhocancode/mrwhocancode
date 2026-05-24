@@ -18,14 +18,8 @@
 | 🌙 [Lunar AI](https://github.com/mrwhocancode/lunar-study-ai) | AI-powered tool built to help students practice questions based on slides/notes |
 | 🧭 [Career Path AI](https://github.com/mrwhocancode/career-path-ai) | Helping people navigate career decisions with AI guidance |
 
----
-## 📊 GitHub Stats
-[![GitHub Streak](https://streak-stats.demolab.com?user=mrwhocancode&theme=dark&hide_border=true&v=20260517)](https://github.com/mrwhocancode)
-
-<p align="left">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mrwhocancode&theme=react-dark&hide_border=true" alt="Activity Graph" />
-</p>
-
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+## 📊 Top langs
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 
