@@ -15,7 +15,7 @@
 
 | Project | Description |
 |--------|-------------|
-| [Lunar AI](https://github.com/mrwhocancode/lunar-study-ai) | AI-powered tool built to help students practice questions based on slides/notes |
+| [Lunar AI]( https://github.com/aduamankwahkwasi292-wq/lunar/releases/tag/v1.0.0) | AI-powered tool built to help students practice questions based on slides/notes |
 | [Career Path AI](https://github.com/mrwhocancode/career-path-ai) | Helping people navigate career decisions with AI guidance |
 |  [Syntax & Stories ](https://syntaxandstories.dev) | Connect with like minded tech people, share ideas and mentor each other |
 
